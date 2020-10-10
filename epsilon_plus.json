@@ -1,6 +1,6 @@
 {
-    "name": "Omega Dark",
-    "icons": "omega_dark",
+    "name": "Epsilon Plus",
+    "icons": "epsilon_plus",
     "colors": {
         "PrimaryText": "ffffff",
         "SecondaryText": "949494",
@@ -8,7 +8,7 @@
         "ApproximateSignText": "a6a6a6",
         "ApproximateExpressionText": "a6a6a6",
         "Background": {
-            "Hard": "000000",
+            "Hard": "181818",
             "Apps": "050505",
             "AppsSecondary": "0f0f0f"
         },
