@@ -47,7 +47,7 @@
         },
         "Code": {
             "Background": "181818",
-            "BackgroundSelected": "1f1f1f",
+            "BackgroundSelected": "181818",
             "Text": "ffffff",
             "Comment": "999988",
             "Number": "009999",
