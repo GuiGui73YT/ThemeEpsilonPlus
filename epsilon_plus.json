@@ -8,9 +8,9 @@
         "ApproximateSignText": "a6a6a6",
         "ApproximateExpressionText": "a6a6a6",
         "Background": {
-            "Hard": "181818",
-            "Apps": "181818",
-            "AppsSecondary": "181818"
+            "Hard": "000000",
+            "Apps": "050505",
+            "AppsSecondary": "0f0f0f"
         },
         "Toolbar": {
             "": "c03535",
