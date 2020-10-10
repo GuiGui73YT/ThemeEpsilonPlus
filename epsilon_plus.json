@@ -21,8 +21,8 @@
             "Border": "262626"
         },
         "Grid": {
-            "PrimaryLine": "262626",
-            "SecondaryLine": "0a0a0a"
+            "PrimaryLine": "00f3ff",
+            "SecondaryLine": "00ffc6"
         },
         "Battery": {
             "": "179e1f",
