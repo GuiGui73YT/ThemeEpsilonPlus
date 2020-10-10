@@ -46,7 +46,7 @@
             "TrigoAndComplexForeground": "ff000c"
         },
         "Code": {
-            "Background": "000000",
+            "Background": "181818",
             "BackgroundSelected": "1f1f1f",
             "Text": "ffffff",
             "Comment": "999988",
@@ -54,7 +54,7 @@
             "Keyword": "ff000c",
             "Operator": "d73a49",
             "String": "032f62",
-            "GutterViewBackground": "E4E6E7"
+            "GutterViewBackground": "181818"
         },
         "Probability": {
             "Curve": "00857f",
