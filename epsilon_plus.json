@@ -89,7 +89,7 @@
         "Button": {
             "Background": "1f1f1f",
             "BackgroundSelected": "2e2e2e",
-            "BackgroundSelectedHighContrast": "a6a6a6",
+            "BackgroundSelectedHighContrast": "323232",
             "Border": "525252",
             "RowBorder": "262626",
             "BorderOut": "0a0a0a",
