@@ -123,7 +123,7 @@
         "Home": {
             "Background": "181818",
             "CellBackground": "181818",
-            "CellBackgroundActive": "b5b5b5",
+            "CellBackgroundActive": "323232",
             "CellText": "ffffff",
             "CellTextActive": "000000",
             "CellTextExternal": "6fe6df",
