@@ -124,8 +124,8 @@
             "Background": "181818",
             "CellBackground": "181818",
             "CellBackgroundActive": "323232",
-            "CellText": "ffffff",
-            "CellTextActive": "ffffff",
+            "CellText": "00ffc6",
+            "CellTextActive": "00ffc6",
             "CellTextExternal": "6fe6df",
             "CellTextExternalActive": "008f87"
         },
